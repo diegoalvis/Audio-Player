@@ -3,6 +3,8 @@
 
 A new Flutter project.
 
+This project is practical example of usage of the library Just Audio. [Pub link](https://pub.dev/packages/just_audio)
+
 <img width="404" alt="Screenshot 2021-08-29 at 14 53 01" src="https://user-images.githubusercontent.com/6097526/131250997-95464e36-f56c-4200-b084-74d26f7b82f1.png">
 
 ## Getting Started
